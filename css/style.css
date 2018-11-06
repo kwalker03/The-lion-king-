@@ -1,0 +1,35 @@
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
+
+
+
+img{
+width: 600px;
+height: 400px;                                           
+object-fit: 300px;
+}
+body{
+background:#f210e3;
+  font-family: 'Courgette', cursive;
+} 
+h2{
+font-size 28px;  
+
+}  
+     
+  .header{
+    background: blue;
+}
+
+  
+*{
+margin: 0px;
+padding:0px;
+  
+}
+
+
+
